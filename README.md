@@ -62,8 +62,3 @@ Les contributions sont les bienvenues ! Pour proposer des améliorations :
 2. Créez une branche `feature-votre-nom` 🔀
 3. Faites vos modifications et ouvrez une pull request 📥
 
----
-
-## 📜 Licence
-Ce projet est sous licence **MIT**.
-
